@@ -1,0 +1,4 @@
+MAX_CHARS = 10000
+TIMEOUT = 30
+MAX_ITERS = 20
+MODEL = "gemini-2.0-flash-001"
